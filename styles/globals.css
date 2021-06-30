@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  user-select: none;
+}
+.App {
+  font-family: "Segoe Print";
+}
+.height-4 {
+  height: calc(100% - 10px);
+}
+.width-4 {
+  width: calc(100% - 10px);
+}
